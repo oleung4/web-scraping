@@ -1,45 +1,5 @@
 [
   {
-    "name": "SUNNY OPTICAL",
-    "ticker": "02382.HK",
-    "price": "96.000",
-    "change": "-0.878%",
-    "prevCloseOpen": "96.850 / 98.000",
-    "updated": "2019/02/26 16:08"
-  },
-  {
-    "name": "KINGSOFT",
-    "ticker": "03888.HK",
-    "price": "15.680",
-    "change": "-3.090%",
-    "prevCloseOpen": "16.180 / 16.180",
-    "updated": "2019/02/26 16:08"
-  },
-  {
-    "name": "SHENZHOU INTL",
-    "ticker": "02313.HK",
-    "price": "98.500",
-    "change": "-0.304%",
-    "prevCloseOpen": "98.800 / 99.550",
-    "updated": "2019/02/26 16:08"
-  },
-  {
-    "name": "ZHENGTONGAUTO",
-    "ticker": "01728.HK",
-    "price": "5.010",
-    "change": "-0.595%",
-    "prevCloseOpen": "5.040 / 5.240",
-    "updated": "2019/02/26 16:08"
-  },
-  {
-    "name": "SINOPHARM",
-    "ticker": "01099.HK",
-    "price": "35.000",
-    "change": "+4.790%",
-    "prevCloseOpen": "33.400 / 33.650",
-    "updated": "2019/02/26 16:08"
-  },
-  {
     "name": "PING AN",
     "ticker": "02318.HK",
     "price": "83.300",
@@ -56,11 +16,51 @@
     "updated": "2019/02/26 16:08"
   },
   {
+    "name": "KINGSOFT",
+    "ticker": "03888.HK",
+    "price": "15.680",
+    "change": "-3.090%",
+    "prevCloseOpen": "16.180 / 16.180",
+    "updated": "2019/02/26 16:08"
+  },
+  {
+    "name": "SINOPHARM",
+    "ticker": "01099.HK",
+    "price": "35.000",
+    "change": "+4.790%",
+    "prevCloseOpen": "33.400 / 33.650",
+    "updated": "2019/02/26 16:08"
+  },
+  {
+    "name": "SUNNY OPTICAL",
+    "ticker": "02382.HK",
+    "price": "96.000",
+    "change": "-0.878%",
+    "prevCloseOpen": "96.850 / 98.000",
+    "updated": "2019/02/26 16:08"
+  },
+  {
     "name": "GEELY AUTO",
     "ticker": "00175.HK",
     "price": "15.400",
     "change": "-3.023%",
     "prevCloseOpen": "15.880 / 16.000",
+    "updated": "2019/02/26 16:08"
+  },
+  {
+    "name": "SHENZHOU INTL",
+    "ticker": "02313.HK",
+    "price": "98.500",
+    "change": "-0.304%",
+    "prevCloseOpen": "98.800 / 99.550",
+    "updated": "2019/02/26 16:08"
+  },
+  {
+    "name": "ZHENGTONGAUTO",
+    "ticker": "01728.HK",
+    "price": "5.010",
+    "change": "-0.595%",
+    "prevCloseOpen": "5.040 / 5.240",
     "updated": "2019/02/26 16:08"
   }
 ]

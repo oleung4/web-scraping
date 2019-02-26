@@ -37,13 +37,12 @@ app.get('/api/update', function (req, res) {
   // res.json(values)
   // top(url)
   stockInfo()
-
-  .then((value) => {
+  .then((value) =>
     fs.writeFile(__dirname + `/scraping/output/values.json`, JSON.stringify(value, undefined, 2), (err) => {
       if (err) throw err;
       console.log('The file has been saved');
     })
-  })
+  )
 
   // does not refresh page with new data - async issue
   .then(() => {
