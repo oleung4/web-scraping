@@ -1,0 +1,202 @@
+[
+  {
+    "stock": "TENCENT / 00700.HK",
+    "price": "343.000",
+    "change": "-0.233%",
+    "volume": "13.83M",
+    "turnover": "4.74B",
+    "pe": "37.65",
+    "yield": "0.26%",
+    "marketCap": "3,265.49B"
+  },
+  {
+    "stock": "PING AN / 02318.HK",
+    "price": "83.300",
+    "change": "-0.951%",
+    "volume": "56.03M",
+    "turnover": "4.69B",
+    "pe": "13.92",
+    "yield": "2.16%",
+    "marketCap": "620.38B"
+  },
+  {
+    "stock": "CCB / 00939.HK",
+    "price": "7.090",
+    "change": "-0.700%",
+    "volume": "604.32M",
+    "turnover": "4.30B",
+    "pe": "6.16",
+    "yield": "4.92%",
+    "marketCap": "1,704.56B"
+  },
+  {
+    "stock": "HSBC HOLDINGS / 00005.HK",
+    "price": "63.950",
+    "change": "-0.389%",
+    "volume": "42.95M",
+    "turnover": "2.74B",
+    "pe": "12.96",
+    "yield": "6.25%",
+    "marketCap": "1,302.12B"
+  },
+  {
+    "stock": "HKEX / 00388.HK",
+    "price": "270.000",
+    "change": "-1.388%",
+    "volume": "9.30M",
+    "turnover": "2.54B",
+    "pe": "44.78",
+    "yield": "2.00%",
+    "marketCap": "337.67B"
+  },
+  {
+    "stock": "ICBC / 01398.HK",
+    "price": "6.060",
+    "change": "-1.623%",
+    "volume": "412.59M",
+    "turnover": "2.52B",
+    "pe": "6.40",
+    "yield": "4.76%",
+    "marketCap": "525.97B"
+  },
+  {
+    "stock": "CAM CSI300 / 03188.HK",
+    "price": "44.000",
+    "change": "-1.676%",
+    "volume": "54.48M",
+    "turnover": "2.42B",
+    "pe": "N/A",
+    "yield": "0.90%",
+    "marketCap": "16.74B"
+  },
+  {
+    "stock": "CSOP A50 ETF / 02822.HK",
+    "price": "14.080",
+    "change": "-2.222%",
+    "volume": "165.31M",
+    "turnover": "2.35B",
+    "pe": "N/A",
+    "yield": "2.30%",
+    "marketCap": "22.02B"
+  },
+  {
+    "stock": "CHINA LIFE / 02628.HK",
+    "price": "22.300",
+    "change": "-1.545%",
+    "volume": "103.76M",
+    "turnover": "2.32B",
+    "pe": "16.46",
+    "yield": "2.15%",
+    "marketCap": "165.94B"
+  },
+  {
+    "stock": "BANK OF CHINA / 03988.HK",
+    "price": "3.720",
+    "change": "-0.535%",
+    "volume": "576.29M",
+    "turnover": "2.15B",
+    "pe": "5.54",
+    "yield": "5.67%",
+    "marketCap": "311.07B"
+  },
+  {
+    "stock": "AAC TECH / 02018.HK",
+    "price": "50.500",
+    "change": "-14.043%",
+    "volume": "39.91M",
+    "turnover": "2.06B",
+    "pe": "9.68",
+    "yield": "4.16%",
+    "marketCap": "61.23B"
+  },
+  {
+    "stock": "ISHARES A50 / 02823.HK",
+    "price": "14.000",
+    "change": "-1.961%",
+    "volume": "142.24M",
+    "turnover": "2.01B",
+    "pe": "N/A",
+    "yield": "0.90%",
+    "marketCap": "29.34B"
+  },
+  {
+    "stock": "CITIC SEC / 06030.HK",
+    "price": "19.580",
+    "change": "-4.020%",
+    "volume": "93.28M",
+    "turnover": "1.86B",
+    "pe": "17.37",
+    "yield": "2.45%",
+    "marketCap": "44.61B"
+  },
+  {
+    "stock": "AIA / 01299.HK",
+    "price": "75.750",
+    "change": "-1.110%",
+    "volume": "20.07M",
+    "turnover": "1.52B",
+    "pe": "19.02",
+    "yield": "1.32%",
+    "marketCap": "914.84B"
+  },
+  {
+    "stock": "CHINA MOBILE / 00941.HK",
+    "price": "83.050",
+    "change": "+0.484%",
+    "volume": "17.00M",
+    "turnover": "1.41B",
+    "pe": "12.41",
+    "yield": "7.71%",
+    "marketCap": "1,700.49B"
+  },
+  {
+    "stock": "XIAOMI-W / 01810.HK",
+    "price": "12.200",
+    "change": "-0.327%",
+    "volume": "113.63M",
+    "turnover": "1.40B",
+    "pe": "N/A",
+    "yield": "0.00%",
+    "marketCap": "291.59B"
+  },
+  {
+    "stock": "CHINA TOWER / 00788.HK",
+    "price": "1.880",
+    "change": "-1.053%",
+    "volume": "650.31M",
+    "turnover": "1.22B",
+    "pe": "N/A",
+    "yield": "0.00%",
+    "marketCap": "87.73B"
+  },
+  {
+    "stock": "CNOOC / 00883.HK",
+    "price": "13.700",
+    "change": "-1.439%",
+    "volume": "84.74M",
+    "turnover": "1.15B",
+    "pe": "20.78",
+    "yield": "3.65%",
+    "marketCap": "611.67B"
+  },
+  {
+    "stock": "CM BANK / 03968.HK",
+    "price": "36.550",
+    "change": "-0.544%",
+    "volume": "28.60M",
+    "turnover": "1.05B",
+    "pe": "10.97",
+    "yield": "2.76%",
+    "marketCap": "167.80B"
+  },
+  {
+    "stock": "SINOPEC CORP / 00386.HK",
+    "price": "6.770",
+    "change": "-0.733%",
+    "volume": "135.88M",
+    "turnover": "916.28M",
+    "pe": "13.35",
+    "yield": "8.86%",
+    "marketCap": "172.73B"
+  }
+]

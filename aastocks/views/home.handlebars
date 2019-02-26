@@ -1,0 +1,23 @@
+<div class="container mx-auto text-center m-3">
+    <h1>Scraped Stocks</h1>
+{{!-- <button type="button" class="btn btn-primary btn-sm" id="update">Update</button> --}}
+<a href="/api/update">update</a>
+</div>
+<div class="container">
+    {{#each stocks}}
+    <div class="card mx-auto text-center border-primary mb-3" style="width: 20rem">
+        <div class="card-body">
+            {{this.name}} - {{this.ticker}}
+            {{!-- {{this.stock}} --}}
+        </div>
+        <div class="list-group list-group-flush">
+            <li class="list-group-item">Price: {{this.price}}</li>
+            <li class="list-group-item">Change: {{this.change}}</li>
+            <li class="list-group-item">Prev. Close/Open: {{this.prevCloseOpen}}</li>
+        </div>
+        <div class="card-footer text-muted">
+            Last updated {{this.updated}}
+        </div>
+    </div>
+    {{/each}}
+</div>
